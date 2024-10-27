@@ -135,7 +135,7 @@ The SQS Queue serves as the communication bridge between the two EC2 instances. 
 ---
 
 ## Screenshots and Detailed Execution Workflow
-Detailed instructions and screenshots of the AWS SQS pipeline execution can be found in the `Cloud_Project1_AravindKalyanSivakumar.pdf` in this repository.
+Detailed instructions and screenshots of the AWS SQS pipeline execution can be found in the `Readme_AravindKalyanSivakumar.pdf` in this repository.
 
 ---
 
